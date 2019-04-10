@@ -1,0 +1,4 @@
+#Thu Apr 04 16:55:52 CST 2019
+base.0=/home/ericl/Desktop/dev/animation/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
